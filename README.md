@@ -1,11 +1,14 @@
 # unde_academy-data_science Repository
+
+## Repository Overview
+
 Welcome to the official repository for  the Data science Department at Unde Academy This repository contains:
 - Lecture notes and additional resources for classes.
 - Assignments and templates for hands-on practice.
 - A submission system for student assignments.
 - Space for advanced projects.
 
-## Structure
+## Repository Structure
 - `class_notes/`: Lecture notes organized by topics.
 - `assignments/`: Instructions and templates for assignments.
 - `submissions/`: Folder for students to submit their work.
